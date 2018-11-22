@@ -1,0 +1,19 @@
+{
+  "name": "airbnb-clone",
+  "version": "1.0.0",
+  "description": "Fullstack Airbnb Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoLoADR/airbnb-clone.git"
+  },
+  "author": "Yohann Atticot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoLoADR/airbnb-clone/issues"
+  },
+  "homepage": "https://github.com/YoLoADR/airbnb-clone#readme"
+}
